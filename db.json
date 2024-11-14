@@ -1,0 +1,100 @@
+{
+  "books": [
+    {
+      "id": "23ed",
+      "title": "It Ends with us",
+      "author": "colleen hoover",
+      "genre": "Romance",
+      "description": "sdasdSAD",
+      "imageUrl": "https://imgs.search.brave.com/JQgZxkKKlwQouflMikA5j4Xt_thRsmiHA5qKK7DnAvo/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93d3cu/Y29sbGVlbmhvb3Zl/ci5jb20vY2RuL3No/b3AvZmlsZXMvSXRF/bmRzd2l0aFVzXzY1/OXgxMDI0LmpwZz92/PTE2OTE5NTkzNzk"
+    },
+    {
+      "id": "fd2e",
+      "title": "Gulliver Travels",
+      "author": "Jonathan Swift",
+      "genre": "Satire",
+      "description": "Travels into Several Remote Nations of the World. In Four Parts. By Lemuel Gulliver, First a Surgeon, and then a Captain of Several Ships",
+      "imageUrl": "https://imgs.search.brave.com/4P6o7qAFkKHo6DP-rPeElYW0waErF1Z68rbSUaQ09ig/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMtbmEuc3NsLWlt/YWdlcy1hbWF6b24u/Y29tL2ltYWdlcy9J/LzgxSmp4TGtZc1VM/LmpwZw"
+    },
+    {
+      "id": "a43a",
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "genre": "Non Fiction",
+      "description": "No matter your goals, Atomic Habits offers a proven framework for improving—every day. James Clear, one of the world's leading experts on habit formation, reveals practical strategies that will teach you exactly how to form good habits, break bad ones, and master the tiny behaviors that lead to remarkable results.",
+      "imageUrl": "https://imgs.search.brave.com/q0jmrxIYODS4IOnTVHQ1oudUjrZ85S0FLS1fwGNbk68/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9waWN0/dXJlcy5hYmVib29r/cy5jb20vaXNibi85/NzgxODQ3OTQxODMx/LXVrLmpwZw"
+    },
+    {
+      "id": "258e",
+      "title": "The Lord Of Rings",
+      "author": "J.R.R. Tolkien ",
+      "genre": "Fantasy",
+      "description": "Among the motion pictures of Middle-earth in various formats, The Lord of the Rings is a trilogy of epic fantasy adventure films directed by Peter Jackson, bas",
+      "imageUrl": "https://imgs.search.brave.com/GDcF44HLC1GqQcMEpBWaZwxELUnQsFpVOwQPLZofIJU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL00v/TVY1Qk1UWmtNakJq/TldNdFpHSTVPQzAw/TUdVMExUazRaVEl0/T0RnMk5XTTNOVFZt/TldRNFhrRXlYa0Zx/Y0djQC5qcGc"
+    },
+    {
+      "id": "e036",
+      "title": " The Wheel of Time",
+      "author": "Robert Jordan",
+      "genre": "Fantasy",
+      "description": "The Wheel of Time is a series of high fantasy novels by American author Robert Jordan, with Brandon Sanderson as a co-author for the final three installments. Originally planned as a six-bo",
+      "imageUrl": "https://imgs.search.brave.com/6eYvieRf8Lr6MtgxQaGceqauqt_k0Mp5Xg8OF0LfUtc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMtbmEuc3NsLWlt/YWdlcy1hbWF6b24u/Y29tL2ltYWdlcy9J/LzcxTmw3dzNyZktM/LmpwZw"
+    },
+    {
+      "id": "1551",
+      "title": "A Song To Drown Rivers",
+      "author": "Ann Liang",
+      "genre": "Romance",
+      "description": "Inspired by the legend of Xishi, one of the famous Four Beauties of Ancient China, A Song to Drown Rivers is an epic historical fantasy about womanhood, war, sacrifice, and love against all odds.\nHer beauty hides a deadly purpose.",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1727713627i/203578730.jpg"
+    },
+    {
+      "id": "fa48",
+      "title": "The Wedding People",
+      "author": "Alison Espach",
+      "genre": "Romance",
+      "description": "A propulsive and uncommonly wise novel about one unexpected wedding guest and the surprising people who help us start anew.\n",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1721918653i/198902277.jpg"
+    },
+    {
+      "id": "bdac",
+      "title": "1984",
+      "author": "Thomas Pynchon",
+      "genre": "Satire",
+      "description": "A masterpiece of rebellion and imprisonment where war is peace freedom is slavery and Big Brother is watching. Thought Police, Big Brother, Orwellian - these words have entered our vocabulary because of George Orwell's classic dystopian novel 1984",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1657781256i/61439040.jpg"
+    },
+    {
+      "id": "b393",
+      "title": "IKIGAI",
+      "author": "Héctor García",
+      "genre": "Non Fiction",
+      "description": "INTERNATIONAL BESTSELLER • 2 MILLION+ COPIES SOLD WORLDWIDE\n\n“Workers looking for more fulfilling positions should start by identifying their ikigai.” ―Business Insider\n \n“One of the unintended—yet positive—consequences of the [pandemic] is that it is forcing people to reevaluate their jobs, careers, and lives. Use this time wisely, find your personal ikigai, and live your best life.” ―Forbes\n\nFind your ikigai (pronounced ee-key-guy) to live longer and bring more meaning and joy to all your days.\n\n“Only staying active will make you want to live a hundred years.” —Japanese proverb",
+      "imageUrl": "https://m.media-amazon.com/images/I/71xH0ALI4-L._SY466_.jpg"
+    },
+    {
+      "id": "fdb4",
+      "title": "Harry Potter",
+      "author": "J K ROWLING",
+      "genre": "Fantasy",
+      "description": "Harry Potter is a series of seven fantasy novels written by British author J. K. Rowling. The novels chronicle the lives of a young wizard, Harry Potter, and his friends, Hermione Granger",
+      "imageUrl": "https://imgs.search.brave.com/N2S7LHccTvRS0SJcsmLg9NUseGDMcFmwuEMK3Y7DgLo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMtbmEuc3NsLWlt/YWdlcy1hbWF6b24u/Y29tL2ltYWdlcy9J/L0ExNXN1TkI5YXJM/LmpwZw"
+    },
+    {
+      "id": "c3f8",
+      "title": "HEIR",
+      "author": "Sabaa Tahir",
+      "genre": "Fantasy",
+      "description": "Growing up in the Kegari slums, AIZ has seen her share of suffering. An old tragedy fuels her need for vengeance, but it is love of her people that propels her. Until one hotheaded mistake lands her in an inescapable prison, where the embers of her wrath ignite.\n\nBanished from her people for an unforgivable crime, SIRSHA is a down-on-her-luck tracker who uses magic to trace her marks. Destitute, she agrees to hunt down a killer who has murdered children across the Martial Empire. All she has to do is carry out the job and get paid. But when a chance encounter leads to an unexpected attraction, Sirsha learns her mission might cost her far more than she's willing to give up.\n",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1708009510i/206780522.jpg"
+    },
+    {
+      "id": "5581",
+      "title": "AL Pacino",
+      "author": "Sonny boy",
+      "genre": "Non Fiction",
+      "description": "Al Pacino's life is massive in scope — from Michael Corleone to Tony Montana. Here he takes on the task of telling it all, from the origin of his inspiration to the man he is now.\n\nThe Instant New York Times Bestseller\n\n“The book is a beautiful trip.” (New York Times Magazine)• “Soulful . . .  Feels like hanging out within a history of American movies over the last 50 years.” (Los Angeles Times) • “Startlingly cinematic ... A fine memoir.” (The Guardian)",
+      "imageUrl": "https://prodimage.images-bn.com/pimages/9780593655115_p0_v1_s1200x1200.jpg"
+    }
+  ]
+}
